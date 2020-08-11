@@ -1,0 +1,62 @@
+.navbar-brand{
+    font-size: 50px;
+}
+
+#title{
+    background-color:#A9FFCB;
+    color:black;
+    
+}
+
+.title2{
+    background-color: #FF8A5B;
+    color:black;
+    padding: 3% 15%;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.img1{
+    border-radius: 100%;
+}
+
+.title-image{
+    width:50%;
+    border-radius: 25%;
+
+}
+
+.testimonial-image{
+    width:1%;
+    border-radius: 100%;
+    margin: 20px auto;
+    
+}
+
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#0D1821;
+    color:white;
+}
+
+.w-100 {
+    width: 30% !important;
+    text-align: center;
+    
+  }
+
+#records{
+    text-align: center;
+    color:black;
+    padding:7% 10%;
+    background-color: white;
+}
+
+#footer{
+    background-color: #A9FFF7;
+    color:black;
+}
+  
